@@ -1,58 +1,129 @@
-# Biosciences: Machine Learning
 
-[![View Module on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/163696-biosciences-machine-learning) or
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&file=S1_Introduction.mlx)
+<a id="T_DEF03274"></a>
 
-This curriculum module teaches students basic machine learning algorithms and how to apply them to biological datasets.   
-
-## Description
-
-Students will explore different types of machine learning and related algorithms by looking at two datasets: patient ovarian cancer data and data about mollusk shell sizes. Students will need to utilize the Statistics and Machine Learning Toolbox™ for this module. This module assumes basic MATLAB knowledge and we recommend that all students take the [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) before continuing if they have not already. Students should also review the biosciences module on statistics, as some of the concepts introduced there are used in this module. 
+# <span style="color:rgb(213,80,0)">Machine Learning for Biosciences</span>
+<a id="H_053613DF"></a>
 
 
-<img src="images/Kintamani_dog_white.jpg" width=28% height=28%>  <img src="images/Domestic_cat_2011_G01.jpg" width=31% height=32%>  
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/163696-biosciences-machine-learning) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=README.mlx)
 
-A computer building a model to differentiate pictures of [dogs](https://commons.wikimedia.org/wiki/File:Kintamani_dog_white.jpg) from pictures of [cats](https://commons.wikimedia.org/wiki/File:Domestic_cat_2011_G01.jpg) is a classic machine learning example. 
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2Fbiosciences-machine-learning%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/biosciences-machine-learning)
 
-## Prerequisites 
+**Curriculum Module**
 
-This module assumes basic MATLAB knowledge and it is recommended that all students take the [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted). Students should have previously completed the biosciences data module and the biosciences statistics module.
+_Created with R2025a. Compatible with R2025a and later releases._
 
-## Getting Started 
+# Information
 
-To learn more about opening and using MATLAB, see the accompanying [Getting Started](Getting_Started.pdf) guide. 
+This curriculum module contains interactive [MATLAB® live scripts](https://www.mathworks.com/products/matlab/live-editor.html) that introduces basic machine learning algorithms  and apply them to biological datasets .
 
-## Sections 
-Notes: These scripts can all be run independently, though we recommend going through these live scripts in order. These live scripts are intended to be used with output inline. To change the output, go to the View tab of the toolstrip, and select ![](images/outputinline.png)  Output Inline. 
-The scripts have areas for the students to interact with the code ![](images/try.png) . There will also be exercises ![](images/exercise.png)  in most scripts and the answers will be provided at the end.  A problem set for students to practice these concepts is also included here. Throughout the scripts, there are also moments to students to reflect on what they've learned or on what the data means ![](images/reflect.png) . Particularly interesting examples of how these concepts are used in "real-world" biology are also pointed out ![](images/app.png).
+<a id="H_F00D98E4"></a>
 
-[Introduction](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&file=S1_Introduction.mlx)
-- Learning objective: Students will get a brief introduction to machine learning and how it is used in biology. 
+## Background
 
-[Unsupervised learning](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&file=S2_Unsupervised_learning.mlx)
-- Learning objective: Students will learn techniques such as dimensionality reduction and clustering and apply them to analyze patient ovarian cancer data.
+You can use these live scripts as demonstrations in lectures, class activities, or interactive assignments outside class. This module covers machine learning applied to various biosciences datasets. 
 
-[Supervised learning](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&file=S3_Supervised_learning.mlx)
-- Learning objective:  Students will learn to use MATLAB apps to apply classification and regression learning techniques to both patient and ecological data. 
 
-[Problem set](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&file=S4_Problem_set.mlx)
-- [Problem set answers](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&file=S5_Problem_set_answers.mlx)
+The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/EndIcon.png" width="19" alt="EndIcon.png"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
 
-## Related Courseware Modules
+## Contact Us
 
-Link to 5 other modules here once set up. 
+Solutions are available upon instructor request. Contact the [MathWorks teaching resources team](mailto:onlineteaching@mathworks.com) if you would like to request solutions, provide feedback, or if you have a question.
 
-## Further Resources 
- 
-Students may also want to work through the [Machine Learning Onramp](https://matlabacademy.mathworks.com/details/machine-learning-onramp/machinelearning). 
+<a id="H_30BC7141"></a>
 
-## Products 
+## Prerequisites
 
-MATLAB®, Statistics and Machine Learning Toolbox™
+This module assumes basic MATLAB® knowledge and we recommend that all students take the [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) before continuing if they have not already. 
 
-## License
+<a id="H_330E72C3"></a>
 
-The License for this project is in the [License.txt](license.txt) file in this repository. 
+## Getting Started
+### Accessing the Module
+### **On MATLAB Online:**
 
-##
-_&copy; Copyright 2023 The MathWorks, Inc._
+Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj)  link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+
+### **On Desktop:**
+
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [MachineLearningBiosciences.prj](<matlab: openProject("MachineLearningBiosciences.prj")>) . It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+
+
+Ensure you have all the required products ([listed below](#H_E850B4FF)) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**. 
+
+<a id="H_E850B4FF"></a>
+
+## Products
+
+MATLAB® is used throughout. Tools from the the [Statistics and Machine Learning Toolbox](https://www.mathworks.com/products/statistics.html)™ , [Deep Learning Toolbox](https://www.mathworks.com/help/deeplearning/index.html?searchHighlight=deeplearningtoolbox&s_tid=srchtitle_support_results_1_deeplearningtoolbox)™ are used frequently as well.
+
+-  MATLAB® 
+-  Deep Learning Toolbox™ 
+-  Statistics and Machine Learning Toolbox™ 
+<a id="H_577C7603"></a>
+
+# Scripts
+<a id="TMP_3070"></a>
+
+## [**An Overview of Machine Learning for Science and Engineering**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/IntrotoMachineLearning.mlx) 
+||||
+| :-- | :-- | :-- |
+| <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ explain the primary goal of machine learning. <br> $\bullet$ distinguish between supervised and unsupervised learning. <br> $\bullet$ describe the key steps in a typical machine learning workflow. <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ Biology <br> $\bullet$ AI | Machine Learning <br> $\bullet$ Engineering <br>   |
+
+<a id="TMP_41f4"></a>
+
+## [**Unsupervised Learning**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/UnsupervisedLearning.mlx) 
+||||
+| :-- | :-- | :-- |
+| <img src="Images/image_4.png" width="141" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ apply Principal Component Analysis (PCA) to reduce dimensions of biosciences data. <br> $\bullet$ use k\-means clustering to identify natural groupings in unlabeled data.  <br> $\bullet$ evaluate clustering performance using confusion matrices.  <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ Biology <br> $\bullet$ AI | Machine Learning <br>   |
+
+<a id="TMP_1fde"></a>
+
+## [**Supervised Learning: Classification**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/SupervisedLearningClassification.mlx) 
+||||
+| :-- | :-- | :-- |
+| <img src="Images/image_5.png" width="171" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ train and evaluate models to classify disease using supervised learning. <br> $\bullet$ assess model performance with accuracy, confusion matrices, and ROC curves. <br> $\bullet$ improve accuracy using feature selection, PCA, and cost weighting. <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ Biology <br> $\bullet$ AI | Machine Learning <br>   |
+
+<a id="TMP_245a"></a>
+
+## [**Supervised Learning: Regression**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/SupervisedLearningRegression.mlx) 
+||||
+| :-- | :-- | :-- |
+| <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ use supervised learning to train and evaluate regression models that predict mollusk age. <br> $\bullet$ evaluate and compare models using statistical performance metrics such as accuracy, confusion matrices, and RMSE. <br> $\bullet$ apply machine learning in biosciences. <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ AI | Machine Learning <br>   |
+
+<a id="TMP_18d1"></a>
+
+## [**Unsupervised Learning Problem Set**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/UnsupervisedLearningPS.mlx) 
+||||
+| :-- | :-- | :-- |
+| <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ apply unsupervised learning to a cancer cell dataset. <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ Biology <br> $\bullet$ AI | Machine Learning <br>   |
+
+<a id="H_F61733D7"></a>
+
+# License
+
+The license for this module is available in the [LICENSE.md](./LICENSE.md).
+
+# Related Courseware Modules
+<a id="H_868F5748"></a>
+
+## [Machine Learning Methods: Clustering](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering) 
+|||
+| :-- | :-- |
+| <img src="Images/image_8.png" width="161" alt="image_8.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/fileexchange/v1?id=135381&project=MLMethodsClustering.prj)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering)  <br>   |
+
+
+Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
+
+# Educator Resources
+-  [Educator Page](https://www.mathworks.com/academia/educators.html) 
+<a id="H_0FA5DA18"></a>
+
+# Contribute 
+
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks teaching resources team](mailto:%20onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](./CONTRIBUTING.md) page on GitHub.
+
+
+ *©* Copyright 2025 The MathWorks, Inc
+
+
