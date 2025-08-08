@@ -3,3 +3,4 @@
 KnownIssuesID = "";
 % ---- Pre-run commands -----
   regressionLearner = @(~) disp("Open Regression Learner App");
+  doc = @(~)disp("Load documentation");
