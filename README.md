@@ -112,6 +112,20 @@ The license for this module is available in the [LICENSE.md](./LICENSE.md).
 | :-- | :-- |
 | <img src="Images/image_8.png" width="161" alt="image_8.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/fileexchange/v1?id=135381&project=MLMethodsClustering.prj)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering)  <br>   |
 
+<a id="TMP_8603"></a>
+
+## [ Biosciences: Working With Data](https://www.mathworks.com/matlabcentral/fileexchange/181586-biosciences-working-with-data?s_tid=srchtitle_site_search_4_biosciences) 
+|||
+| :-- | :-- |
+| <img src="Images/image_11.png" width="161" alt="image_11.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/181586-biosciences-working-with-data?s_tid=srchtitle_site_search_4_biosciences)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Working-With-Data&file=S1_Introduction.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Biosciences-Working-With-Data)  <br>   |
+
+<a id="TMP_8603"></a>
+
+## [ Biosciences: Genetics](https://www.mathworks.com/matlabcentral/fileexchange/163706-biosciences-genetics?s_tid=srchtitle_site_search_1_biosciences) 
+|||
+| :-- | :-- |
+| <img src="Images/image_14.png" width="161" alt="image_14.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/163706-biosciences-genetics?s_tid=srchtitle_site_search_1_biosciences)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Working-With-Data&file=S1_Introduction.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Biosciences-Genetics)  <br>   |
+
 
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 
