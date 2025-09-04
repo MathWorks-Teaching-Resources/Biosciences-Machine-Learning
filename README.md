@@ -7,7 +7,7 @@
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/163696-biosciences-machine-learning) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=README.mlx)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2Fbiosciences-machine-learning%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/biosciences-machine-learning)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2Fbiosciences-machine-learning%2Frelease%2FImages%2FTestedWith.json)](https://github.com/MathWorks-Teaching-Resources/Biosciences-Machine-Learning/blob/release/README.md)
 
 **Curriculum Module**
 
@@ -110,7 +110,7 @@ The license for this module is available in the [LICENSE.md](./LICENSE.md).
 ## [Machine Learning Methods: Clustering](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering) 
 |||
 | :-- | :-- |
-| <img src="Images/image_8.png" width="161" alt="image_8.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/fileexchange/v1?id=135381&project=MLMethodsClustering.prj)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering)  <br>   |
+| <img src="Images/image_8.png" width="161" alt="image_8.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/135381-machine-learning-methods-clustering)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/fileexchange/v1?id=135381&project=MLMethodsClustering.prj)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Machine-Learning-Methods-Clustering)  <br>   |
 
 <a id="TMP_8603"></a>
 
