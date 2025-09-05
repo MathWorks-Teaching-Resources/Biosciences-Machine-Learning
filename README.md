@@ -5,9 +5,9 @@
 <a id="H_053613DF"></a>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/163696-biosciences-machine-learning) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/163696-biosciences-machine-learning) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Machine-Learning&project=MachineLearningBiosciences.prj&file=README.mlx)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2Fbiosciences-machine-learning%2Frelease%2FImages%2FTestedWith.json)](https://github.com/MathWorks-Teaching-Resources/Biosciences-Machine-Learning/blob/release/README.md)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FBiosciences-Machine-Learning%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Biosciences-Machine-Learning)
 
 **Curriculum Module**
 
@@ -65,35 +65,35 @@ MATLAB® is used throughout. Tools from the the [Statistics and Machine Learning
 # Scripts
 <a id="TMP_3070"></a>
 
-## [**An Overview of Machine Learning for Science and Engineering**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/IntrotoMachineLearning.mlx) 
+## [**An Overview of Machine Learning for Science and Engineering**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Machine-Learning&project=MachineLearningBiosciences.prj&file=Scripts/IntrotoMachineLearning.mlx) 
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_3.png" width="171" alt="image_3.png"> <br>  | **In this script, students will...** <br> $\bullet$ explain the primary goal of machine learning. <br> $\bullet$ distinguish between supervised and unsupervised learning. <br> $\bullet$ describe the key steps in a typical machine learning workflow. <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ Biology <br> $\bullet$ AI | Machine Learning <br> $\bullet$ Engineering <br>   |
 
 <a id="TMP_41f4"></a>
 
-## [**Unsupervised Learning**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/UnsupervisedLearning.mlx) 
+## [**Unsupervised Learning**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Machine-Learning&project=MachineLearningBiosciences.prj&file=Scripts/UnsupervisedLearning.mlx) 
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_4.png" width="141" alt="image_4.png"> <br>  | **In this script, students will...** <br> $\bullet$ apply Principal Component Analysis (PCA) to reduce dimensions of biosciences data. <br> $\bullet$ use k\-means clustering to identify natural groupings in unlabeled data.  <br> $\bullet$ evaluate clustering performance using confusion matrices.  <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ Biology <br> $\bullet$ AI | Machine Learning <br>   |
 
 <a id="TMP_1fde"></a>
 
-## [**Supervised Learning: Classification**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/SupervisedLearningClassification.mlx) 
+## [**Supervised Learning: Classification**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Machine-Learning&project=MachineLearningBiosciences.prj&file=Scripts/SupervisedLearningClassification.mlx) 
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_5.png" width="171" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ train and evaluate models to classify disease using supervised learning. <br> $\bullet$ assess model performance with accuracy, confusion matrices, and ROC curves. <br> $\bullet$ improve accuracy using feature selection, PCA, and cost weighting. <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ Biology <br> $\bullet$ AI | Machine Learning <br>   |
 
 <a id="TMP_245a"></a>
 
-## [**Supervised Learning: Regression**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/SupervisedLearningRegression.mlx) 
+## [**Supervised Learning: Regression**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Machine-Learning&project=MachineLearningBiosciences.prj&file=Scripts/SupervisedLearningRegression.mlx) 
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_6.png" width="171" alt="image_6.png"> <br>  | **In this script, students will...** <br> $\bullet$ use supervised learning to train and evaluate regression models that predict mollusk age. <br> $\bullet$ evaluate and compare models using statistical performance metrics such as accuracy, confusion matrices, and RMSE. <br> $\bullet$ apply machine learning in biosciences. <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ AI | Machine Learning <br>   |
 
 <a id="TMP_18d1"></a>
 
-## [**Unsupervised Learning Problem Set**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/biosciences-machine-learning&project=MachineLearningBiosciences.prj&file=Scripts/UnsupervisedLearningPS.mlx) 
+## [**Unsupervised Learning Problem Set**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Biosciences-Machine-Learning&project=MachineLearningBiosciences.prj&file=Scripts/UnsupervisedLearningPS.mlx) 
 ||||
 | :-- | :-- | :-- |
 | <img src="Images/image_7.png" width="171" alt="image_7.png"> <br>  | **In this script, students will...** <br> $\bullet$ apply unsupervised learning to a cancer cell dataset. <br>  | **Academic disciplines** <br> $\bullet$ Biosciences <br> $\bullet$ Biology <br> $\bullet$ AI | Machine Learning <br>   |
